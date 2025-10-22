@@ -5,3 +5,9 @@ A data and resource pack that allows modders' to animate anything, with our exam
 
 An optional mod will be available for custom entities, attributes, or abilities. The mod is designed for Forge 1.21.1 and up, but is **not required** — the data and resource packs work in vanilla Minecraft.
 
+Tutorial:
+
+Tools:
+- https://github.com/Mojang/bedrock-samples/tree/main/resource_pack/animations - the animation folder, since it has the files that we can change.
+- MCreator: https://mcreator.net/. Optional, but for making the RP and DPs.
+- Blockbench: https://www.blockbench.net/, for making the custom player animations.
