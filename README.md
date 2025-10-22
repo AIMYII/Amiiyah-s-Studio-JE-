@@ -11,3 +11,5 @@ Tools:
 - https://github.com/Mojang/bedrock-samples/tree/main/resource_pack/animations - the animation folder, since it has the files that we can change.
 - MCreator: https://mcreator.net/. Optional, but for making the RP and DPs.
 - Blockbench: https://www.blockbench.net/, for making the custom player animations.
+  - Add-ons for Blockbench, [CEM ](https://ewanhowell.com/plugins/cem-template-loader) by Ewan Howell.
+  - And the custom made player models in the files.
