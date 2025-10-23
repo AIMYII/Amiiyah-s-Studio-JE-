@@ -13,3 +13,9 @@ Tools:
 - Blockbench: https://www.blockbench.net/, for making the custom player animations.
   - Add-ons for Blockbench, [CEM ](https://ewanhowell.com/plugins/cem-template-loader) by Ewan Howell.
   - And the custom made player models in the files.
+
+
+**Disclaimer**
+
+This project is an independent fan-made add-on and is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
+Minecraft is a trademark of Mojang Studios and Microsoft.
