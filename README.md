@@ -13,6 +13,7 @@ Tools:
 - Blockbench: https://www.blockbench.net/, for making the custom player animations.
   - Add-ons for Blockbench, [CEM ](https://ewanhowell.com/plugins/cem-template-loader) by Ewan Howell.
   - And the custom made player models in the files.
+- [Mine-imator](https://www.mineimator.com/): Optional. For animating the models.
 
 
 **Disclaimer**
