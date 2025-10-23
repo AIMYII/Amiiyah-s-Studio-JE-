@@ -17,5 +17,5 @@ Tools:
 
 **Disclaimer**
 
-This project is an independent fan-made add-on and is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
+This project is an independent fan-made mod, data and resource packs and is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
 Minecraft is a trademark of Mojang Studios and Microsoft.
